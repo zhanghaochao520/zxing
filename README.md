@@ -70,19 +70,6 @@ allprojects {
   
    ```
    
-   
-   项目中用到的所有权限
-   
-   ```
-   <uses-permission android:name="android.permission.CAMERA" />
-   <uses-permission android:name="android.permission.FLASHLIGHT" />
-   <uses-feature android:name="android.hardware.camera" />
-   <uses-feature android:name="android.hardware.camera.autofocus" />
-   <uses-permission android:name="android.permission.VIBRATE" />
-   <uses-permission android:name="android.permission.WAKE_LOCK" />
-   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-   ```
 
  
 3.跳转到扫一扫界面：
